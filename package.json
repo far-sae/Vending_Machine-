@@ -1,0 +1,12 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "A simple Ethereum smart contract for a vending machine",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "devDependencies": {
+    "truffle": "^5.4.29",
+    "web3": "^1.5.2"
+  }
+}
